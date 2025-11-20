@@ -1725,7 +1725,7 @@
     }
     .slide3 .box-right .background-behind-img {
         width: 95%;
-        max-width: 300px;
+        max-width: 270px;
         height: 267px;
         max-height: 532px;
         background-color: rgba(200, 230, 201, 1);
@@ -1734,7 +1734,7 @@
 }
 .slide3 .box-right .box-image-right .background-behind-img {
         width: 95%;
-        max-width: 300px;
+        max-width: 270px;
         height: 267px;
         max-height: 532px;
         background-image: url(image/map.png);
@@ -1865,5 +1865,6 @@
     gap: 0;
 }
 }
+
 
 
